@@ -1,0 +1,9 @@
+[package]
+name = "rust-graphs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.94"
+bumpalo = "3.16.0"
+regex = "1.11.1"
